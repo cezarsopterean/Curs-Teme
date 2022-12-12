@@ -22,12 +22,12 @@ print('Numarul de vanzari pana in acest moment : ' + str(produse_vandute))
 print('Pretul total va fi : ' + str(pret_bucata * 5))
 print('Produs in stock : ' + str(in_stock))
 
-6.
+#6.
 Nume = input('Introduceti numele: ')
 Prenume = input('Introduceti prenumele: ')
 print(len(Nume + Prenume))
 
-7.
+#7.
 lungimea = input('Introduceti lungimea: ')
 latimea = input('Introduceti latimea: ')
 print('Aria dreptunghiunlui este: ' + str(int(lungimea) * int(latimea)))
